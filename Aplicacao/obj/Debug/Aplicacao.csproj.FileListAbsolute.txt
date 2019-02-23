@@ -1,0 +1,5 @@
+C:\Users\Williamdoo\Desktop\DFe\Aplicacao\bin\Debug\Aplicacao.dll
+C:\Users\Williamdoo\Desktop\DFe\Aplicacao\bin\Debug\Aplicacao.pdb
+C:\Users\Williamdoo\Desktop\DFe\Aplicacao\obj\Debug\Aplicacao.csproj.CoreCompileInputs.cache
+C:\Users\Williamdoo\Desktop\DFe\Aplicacao\obj\Debug\Aplicacao.dll
+C:\Users\Williamdoo\Desktop\DFe\Aplicacao\obj\Debug\Aplicacao.pdb

@@ -1,0 +1,10 @@
+C:\Users\Williamdoo\Desktop\DFe\Danfe\bin\Debug\Danfe.dll
+C:\Users\Williamdoo\Desktop\DFe\Danfe\bin\Debug\Danfe.pdb
+C:\Users\Williamdoo\Desktop\DFe\Danfe\bin\Debug\itextsharp.dll
+C:\Users\Williamdoo\Desktop\DFe\Danfe\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Williamdoo\Desktop\DFe\Danfe\bin\Debug\WVFramework.dll
+C:\Users\Williamdoo\Desktop\DFe\Danfe\bin\Debug\itextsharp.xml
+C:\Users\Williamdoo\Desktop\DFe\Danfe\obj\Debug\Danfe.csproj.CoreCompileInputs.cache
+C:\Users\Williamdoo\Desktop\DFe\Danfe\obj\Debug\Danfe.csproj.CopyComplete
+C:\Users\Williamdoo\Desktop\DFe\Danfe\obj\Debug\Danfe.dll
+C:\Users\Williamdoo\Desktop\DFe\Danfe\obj\Debug\Danfe.pdb

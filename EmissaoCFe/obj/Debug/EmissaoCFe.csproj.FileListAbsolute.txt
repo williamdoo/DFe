@@ -1,0 +1,11 @@
+C:\Users\Williamdoo\Desktop\DFe\EmissaoCFe\bin\Debug\EmissaoCFe.dll
+C:\Users\Williamdoo\Desktop\DFe\EmissaoCFe\bin\Debug\EmissaoCFe.pdb
+C:\Users\Williamdoo\Desktop\DFe\EmissaoCFe\bin\Debug\Aplicacao.dll
+C:\Users\Williamdoo\Desktop\DFe\EmissaoCFe\bin\Debug\SchemaCFe.dll
+C:\Users\Williamdoo\Desktop\DFe\EmissaoCFe\bin\Debug\Aplicacao.pdb
+C:\Users\Williamdoo\Desktop\DFe\EmissaoCFe\bin\Debug\SchemaCFe.pdb
+C:\Users\Williamdoo\Desktop\DFe\EmissaoCFe\obj\Debug\EmissaoCFe.csprojAssemblyReference.cache
+C:\Users\Williamdoo\Desktop\DFe\EmissaoCFe\obj\Debug\EmissaoCFe.csproj.CoreCompileInputs.cache
+C:\Users\Williamdoo\Desktop\DFe\EmissaoCFe\obj\Debug\EmissaoCFe.csproj.CopyComplete
+C:\Users\Williamdoo\Desktop\DFe\EmissaoCFe\obj\Debug\EmissaoCFe.dll
+C:\Users\Williamdoo\Desktop\DFe\EmissaoCFe\obj\Debug\EmissaoCFe.pdb

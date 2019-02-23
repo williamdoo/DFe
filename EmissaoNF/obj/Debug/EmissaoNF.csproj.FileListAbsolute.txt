@@ -1,0 +1,15 @@
+C:\Users\Williamdoo\Desktop\DFe\EmissaoNF\bin\Debug\EmissaoNF.dll
+C:\Users\Williamdoo\Desktop\DFe\EmissaoNF\bin\Debug\EmissaoNF.pdb
+C:\Users\Williamdoo\Desktop\DFe\EmissaoNF\bin\Debug\Aplicacao.dll
+C:\Users\Williamdoo\Desktop\DFe\EmissaoNF\bin\Debug\Certificado.dll
+C:\Users\Williamdoo\Desktop\DFe\EmissaoNF\bin\Debug\SchemaNF.dll
+C:\Users\Williamdoo\Desktop\DFe\EmissaoNF\bin\Debug\Wsdl.dll
+C:\Users\Williamdoo\Desktop\DFe\EmissaoNF\bin\Debug\Aplicacao.pdb
+C:\Users\Williamdoo\Desktop\DFe\EmissaoNF\bin\Debug\Certificado.pdb
+C:\Users\Williamdoo\Desktop\DFe\EmissaoNF\bin\Debug\SchemaNF.pdb
+C:\Users\Williamdoo\Desktop\DFe\EmissaoNF\bin\Debug\Wsdl.pdb
+C:\Users\Williamdoo\Desktop\DFe\EmissaoNF\obj\Debug\EmissaoNF.csprojAssemblyReference.cache
+C:\Users\Williamdoo\Desktop\DFe\EmissaoNF\obj\Debug\EmissaoNF.csproj.CoreCompileInputs.cache
+C:\Users\Williamdoo\Desktop\DFe\EmissaoNF\obj\Debug\EmissaoNF.csproj.CopyComplete
+C:\Users\Williamdoo\Desktop\DFe\EmissaoNF\obj\Debug\EmissaoNF.dll
+C:\Users\Williamdoo\Desktop\DFe\EmissaoNF\obj\Debug\EmissaoNF.pdb

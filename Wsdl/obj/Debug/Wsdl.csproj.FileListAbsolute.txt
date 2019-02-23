@@ -1,0 +1,9 @@
+C:\Users\Williamdoo\Desktop\DFe\Wsdl\obj\Debug\Wsdl.csprojAssemblyReference.cache
+C:\Users\Williamdoo\Desktop\DFe\Wsdl\obj\Debug\Wsdl.csproj.CoreCompileInputs.cache
+C:\Users\Williamdoo\Desktop\DFe\Wsdl\bin\Debug\Wsdl.dll
+C:\Users\Williamdoo\Desktop\DFe\Wsdl\bin\Debug\Wsdl.pdb
+C:\Users\Williamdoo\Desktop\DFe\Wsdl\bin\Debug\Aplicacao.dll
+C:\Users\Williamdoo\Desktop\DFe\Wsdl\bin\Debug\Aplicacao.pdb
+C:\Users\Williamdoo\Desktop\DFe\Wsdl\obj\Debug\Wsdl.csproj.CopyComplete
+C:\Users\Williamdoo\Desktop\DFe\Wsdl\obj\Debug\Wsdl.dll
+C:\Users\Williamdoo\Desktop\DFe\Wsdl\obj\Debug\Wsdl.pdb

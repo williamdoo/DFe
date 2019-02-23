@@ -1,0 +1,5 @@
+C:\Users\Williamdoo\Desktop\DFe\SchemaCFe\bin\Debug\SchemaCFe.dll
+C:\Users\Williamdoo\Desktop\DFe\SchemaCFe\bin\Debug\SchemaCFe.pdb
+C:\Users\Williamdoo\Desktop\DFe\SchemaCFe\obj\Debug\SchemaCFe.csproj.CoreCompileInputs.cache
+C:\Users\Williamdoo\Desktop\DFe\SchemaCFe\obj\Debug\SchemaCFe.dll
+C:\Users\Williamdoo\Desktop\DFe\SchemaCFe\obj\Debug\SchemaCFe.pdb

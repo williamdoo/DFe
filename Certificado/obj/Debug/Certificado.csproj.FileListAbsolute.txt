@@ -1,0 +1,5 @@
+C:\Users\Williamdoo\Desktop\DFe\Certificado\bin\Debug\Certificado.dll
+C:\Users\Williamdoo\Desktop\DFe\Certificado\bin\Debug\Certificado.pdb
+C:\Users\Williamdoo\Desktop\DFe\Certificado\obj\Debug\Certificado.csproj.CoreCompileInputs.cache
+C:\Users\Williamdoo\Desktop\DFe\Certificado\obj\Debug\Certificado.dll
+C:\Users\Williamdoo\Desktop\DFe\Certificado\obj\Debug\Certificado.pdb
